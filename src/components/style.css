@@ -1,0 +1,17 @@
+.swiper-pagination {
+    
+    position: relative;
+    margin-top: 60px;
+  }
+
+.swiper-pagination-bullet {
+    padding: 10px;
+    background-color:white; /* Default bullet color */
+    border:0.5px solid black;
+  }
+ 
+  .swiper-pagination-bullet-active {
+    background-color: black; /* Active bullet color */
+  }
+
+  
